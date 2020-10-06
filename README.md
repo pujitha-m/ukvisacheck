@@ -25,7 +25,7 @@ Steps To Follow:
 
 1) In Terminal navigate to any folder and clone the repo
 
-git clone git@gitlab.com:candidate-1390291/ukvisacheck.git
+git clone git@github.com:pujitha-m/ukvisacheck.git
 
 2) Through Terminal Navigate to the folder "ukvisacheck" 
 
